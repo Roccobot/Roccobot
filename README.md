@@ -1,6 +1,6 @@
 # Rocco Casadei · Roccobot
 
-Account manager and digital experience specialist by trade. Photographer, graphic designer, video editor, sound engineer, editor, copywriter and marketing specialist, with twenty years of work behind each. Degree in computer engineering, diploma in film direction and screenwriting.
+Italian account manager and digital experience specialist by trade. Photographer, graphic designer, video editor, sound engineer, editor, copywriter and marketing specialist, with twenty years of work behind each. Degree in computer engineering, diploma in film direction and screenwriting.
 
 ## How I build
 

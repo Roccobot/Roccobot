@@ -26,6 +26,9 @@
   digital experience specialist, fotografo, graphic designer, editor video, ingegnere del suono,
   editor, copywriter e marketing specialist. Sua formulazione: *non voglio apparire come uno
   sprovveduto che prima dell'avvento dell'AI non sapeva fare nulla*.
+- **Che è italiano si dice con una parola, nella prima frase** (`Italiano-01`, 2026-11-23: *senza
+  sbandierare ma un briciolo di orgoglio nazionale ce l'ho*): *Italian account manager...*, senza
+  bandiera.
 - **Che cosa non c'è, e perché**: il datore di lavoro, che è un dato personale; RoccobotOS, che
   Rocco tiene fuori dalla mappa del sito; il design system, che non si indicizza; il sito nuovo di
   Roccobot.me, ancora da costruire; 'Ma che parola è', che non si descrive in una riga senza
