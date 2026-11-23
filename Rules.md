@@ -32,7 +32,8 @@
 - **Che cosa non c'è, e perché**: il datore di lavoro, che è un dato personale; RoccobotOS, che
   Rocco tiene fuori dalla mappa del sito; il design system, che non si indicizza; il sito nuovo di
   Roccobot.me, ancora da costruire; 'Ma che parola è', che non si descrive in una riga senza
-  inventare. Uno di questi entra solo se lo chiede lui.
+  inventare; le liste di Roccobot ABP, che restano pubbliche ma che Rocco non pubblicizza (sua
+  richiesta del 2026-11-23). Uno di questi entra solo se lo chiede lui.
 - **Ogni fatto si verifica prima di scriverlo**: un progetto, un negozio, un numero (le 28 lingue di
   AIV) si leggono nelle regole o nei repo di quel progetto. Un progetto nuovo pubblico con una
   pagina si propone a Rocco per il profilo, senza aggiungerlo da sé.

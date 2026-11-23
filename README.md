@@ -23,7 +23,6 @@ I design software the way I design everything else: from the idea to the last pi
 ## Tools
 
 - **[Userscripts](https://roccobot.github.io/userscripts/)** for Violentmonkey, among them Decent Image Viewer, a better viewer for the browser's own image pages.
-- **[Roccobot ABP](https://github.com/Roccobot/ABP)** · filter lists for AdGuard and uBlock.
 
 ## Elsewhere
 
