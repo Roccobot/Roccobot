@@ -246,6 +246,8 @@ Un file più specifico vince **dove parla**, e il suo silenzio non è una deroga
 - **Il `README.md` è un testo pubblico di Rocco, in inglese**: si cambia solo su sua richiesta,
   ogni fatto si verifica prima di scriverlo, e il datore di lavoro non si nomina senza il suo via
   (`Rules.md` § '📝 Il README del profilo').
+- **Nessun numero di versione, per scelta dell'utente**: deroga dichiarata, come per 'Ma che parola
+  è' (`Rules.md` § '🌿 Ramo e versione').
 - **Verifica di pubblicazione**: il file servito da
   <https://raw.githubusercontent.com/Roccobot/Roccobot/main/README.md> coincide con quello del
   commit (`Rules.md` § '🌿 Ramo e versione').

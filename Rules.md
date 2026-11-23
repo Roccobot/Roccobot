@@ -37,6 +37,9 @@
 ## 🌿 Ramo e versione
 
 - **Ramo principale `main`**, e ci si lavora direttamente.
+- **Nessun numero di versione, per scelta dell'utente** (`Versione-01`, 2026-11-23): è una deroga
+  dichiarata alla regola universale sulla versione, come per 'Ma che parola è'. Il `README.md` è un
+  testo e non un prodotto, e la verifica qui sotto basta a dire che cosa è pubblicato.
 - **Verifica di pubblicazione**: il file servito da
   <https://raw.githubusercontent.com/Roccobot/Roccobot/main/README.md> coincide byte per byte con
   quello del commit. La pagina del profilo, a un client senza sessione, risponde 403.
