@@ -15,8 +15,8 @@ I design software the way I design everything else: from the idea to the last pi
 
 ## Web
 
-- **[I Grandi di Arda](https://roccobot.github.io/arda/)** · a bilingual ranking of the characters of Tolkien's legendarium, every entry checked against the books.
-- **[I Grandi di Terramare](https://roccobot.github.io/earthsea/)** · the same, for Ursula K. Le Guin's Earthsea.
+- **[The Great Ones of Arda](https://roccobot.github.io/arda/)** · a bilingual ranking of the characters of Tolkien's legendarium, every entry checked against the books.
+- **[The World of Earthsea](https://roccobot.github.io/earthsea/)** · the same, for Ursula K. Le Guin's Earthsea.
 - **[CleanSVG](https://roccobot.github.io/CleanSVG/)** · strips metadata and editor leftovers from SVG files, entirely in the browser.
 - **[RatioLab](https://roccobot.github.io/ratiolab/)** · reduces two numbers to their ratio and matches it against standard formats.
 
